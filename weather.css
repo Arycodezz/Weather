@@ -1,0 +1,18 @@
+body{
+    background: lightblue;
+}
+.center{
+    background: rgb(1, 220, 133);
+    width: 90%;
+    max-width: 300px;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    padding: 30px;
+}
+#cloud{
+    margin-left: 15px;
+}
+#btn{
+    margin-left: 75px;
+    margin-top: 15px;
+}
